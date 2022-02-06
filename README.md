@@ -1,4 +1,4 @@
-<img align="Center" src="http://raw.githubusercontent.com/skanaujiya/skanaujiya/main/CREATE SOMETHING GREAT!.png"/>
+<img align="Center" src="http://raw.githubusercontent.com/skanaujiya/skanaujiya/main/back.png"/>
 ### Hi there 👋 I'm Shubham
 
 <!--
