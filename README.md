@@ -1,7 +1,7 @@
 <img align="center" src="https://raw.githubusercontent.com/skanaujiya/skanaujiya/main/back.png"  width="1080" hight="380"/>
 
 <h1 align="center">Hi 👋, I'm Shubham</h1>
-<h3 align="center">iOS Developer||Android Developer||Web Developer||Programmer</h3>
+<h3 align="center">iOS Developer||Android Developer||ML Developer||Programmer</h3>
 - 🔭 I’m currently working on **Login System App**
 
 ## GIT STATS
